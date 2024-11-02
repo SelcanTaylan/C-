@@ -1,0 +1,44 @@
+  private void button1_Click(object sender, EventArgs e)
+  {
+      lstKontrol.Items.Clear();
+     
+      if (chkKlima.Checked == true) 
+      {
+          lstKontrol.Items.Add("KLİMA AÇIK");
+      }
+
+      else
+      {
+          lstKontrol.Items.Add("KLİMA KAPALI");
+      }
+
+      if (chkLamba.Checked == true)
+      {
+          lstKontrol.Items.Add("LAMBA AÇIK");
+      }
+
+      else
+      {
+          lstKontrol.Items.Add("LAMBA KAPALI");
+      }
+
+      if (chkPerde.Checked == true)
+      {
+          lstKontrol.Items.Add("PERDE AÇIK");
+      }
+
+      else
+      {
+          lstKontrol.Items.Add("PERDE KAPALI");
+      }
+
+      if (chkTelevizyon.Checked == true)
+      {
+          lstKontrol.Items.Add("TELEVİZYON AÇIK");
+      }
+
+      else
+      {
+          lstKontrol.Items.Add("TELEVİZYON KAPALI");
+      }
+  }
