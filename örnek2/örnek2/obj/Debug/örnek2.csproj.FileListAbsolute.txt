@@ -1,0 +1,10 @@
+C:\Users\Adapr\OneDrive\Desktop\Selcan\NTP\13.09.2024\örnek2\örnek2\obj\Debug\örnek2.csproj.AssemblyReference.cache
+C:\Users\Adapr\OneDrive\Desktop\Selcan\NTP\13.09.2024\örnek2\örnek2\obj\Debug\örnek2.Form1.resources
+C:\Users\Adapr\OneDrive\Desktop\Selcan\NTP\13.09.2024\örnek2\örnek2\obj\Debug\örnek2.Properties.Resources.resources
+C:\Users\Adapr\OneDrive\Desktop\Selcan\NTP\13.09.2024\örnek2\örnek2\obj\Debug\örnek2.csproj.GenerateResource.cache
+C:\Users\Adapr\OneDrive\Desktop\Selcan\NTP\13.09.2024\örnek2\örnek2\obj\Debug\örnek2.csproj.CoreCompileInputs.cache
+C:\Users\Adapr\OneDrive\Desktop\Selcan\NTP\13.09.2024\örnek2\örnek2\bin\Debug\örnek2.exe.config
+C:\Users\Adapr\OneDrive\Desktop\Selcan\NTP\13.09.2024\örnek2\örnek2\bin\Debug\örnek2.exe
+C:\Users\Adapr\OneDrive\Desktop\Selcan\NTP\13.09.2024\örnek2\örnek2\bin\Debug\örnek2.pdb
+C:\Users\Adapr\OneDrive\Desktop\Selcan\NTP\13.09.2024\örnek2\örnek2\obj\Debug\örnek2.exe
+C:\Users\Adapr\OneDrive\Desktop\Selcan\NTP\13.09.2024\örnek2\örnek2\obj\Debug\örnek2.pdb
